@@ -1,6 +1,3 @@
-Hello
+# ***join us***
 
-
-
-***join us***
 [join](mailto:saarleshembar@gmail.com)
